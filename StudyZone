@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StudyZone - Khu học tập năng động</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với StudyZone</h1>
+    <p>Nơi học sinh học tập, chia sẻ và phát triển cùng nhau!</p>
+  </header>
+
+  <section>
+    <h2>📚 Bài học nổi bật</h2>
+    <ul>
+      <li>Ngữ pháp tiếng Anh cơ bản</li>
+      <li>Mẹo giải nhanh Toán trắc nghiệm</li>
+      <li>Kỹ năng ghi nhớ siêu tốc</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 StudyZone. Designed by học sinh, dành cho học sinh ❤️</p>
+  </footer>
+</body>
+</html>
